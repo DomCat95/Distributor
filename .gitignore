@@ -3,3 +3,15 @@
 
 # ignore draw io files (graphs)
 *.drawio
+
+# git and eclipse stuff i don't want to paste
+*.gitignore
+*.history
+*.index
+*.dat
+*.markers
+*.snap
+*.launch
+*.version
+*.settings/
+*.metadata/
