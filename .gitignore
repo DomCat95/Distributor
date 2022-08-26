@@ -1,0 +1,5 @@
+## ignore markdown files
+*.md
+
+# ignore draw io files (graphs)
+*.drawio
