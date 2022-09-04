@@ -9,7 +9,7 @@ import jakarta.servlet.http.HttpSession;
 
 public class LoginCtrl {
 
-	private static final String LOGGED_USER_KEY = "user";
+	public static final String LOGGED_USER_KEY = "user";
 	private UserDAO repo = UserDAO.getInstance();
 	
 	public User login (String email, String pwd) throws WrongCredentialException, SQLException {

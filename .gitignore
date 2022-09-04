@@ -4,6 +4,9 @@
 # ignore draw io files (graphs)
 *.drawio
 
+# ignore compiled classes
+*.class
+
 # git and eclipse stuff i don't want to paste
 *.gitignore
 *.history
